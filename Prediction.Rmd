@@ -2,6 +2,7 @@
 title: "Assignment: Prediction Assignment Writeup"
 author: R Sheela
 date: 27 March 2017 
+output: md_document
 ---
 
 
